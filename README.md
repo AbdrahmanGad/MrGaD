@@ -2,7 +2,8 @@
 - 👀 I’m interested in Android Software Developer
 - 🌱 I’m currently learning Kotlin and learnt JAVA and basics of Xamarin
 -    
-- 📫 You can reach me @ abdrahman.gad99@gmail.com or linkedIn account @ https://bit.ly/AbdelrahmanGad
+### 📫Contact info:- 
+abdrahman.gad99@gmail.com or linkedIn account @ https://bit.ly/AbdelrahmanGad
 
 <!---
 MrGaD/MrGaD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
